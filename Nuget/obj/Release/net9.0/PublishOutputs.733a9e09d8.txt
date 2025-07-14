@@ -1,0 +1,6 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Release/net9.0/publish/Nuget
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Release/net9.0/publish/Nuget.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Release/net9.0/publish/Nuget.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Release/net9.0/publish/Nuget.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Release/net9.0/publish/Nuget.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Release/net9.0/publish/Newtonsoft.Json.dll

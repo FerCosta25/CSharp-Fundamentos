@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/bin/Debug/net9.0/Condiciones
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/bin/Debug/net9.0/Condiciones.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/bin/Debug/net9.0/Condiciones.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/bin/Debug/net9.0/Condiciones.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/bin/Debug/net9.0/Condiciones.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/obj/Debug/net9.0/Condiciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/obj/Debug/net9.0/Condiciones.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/obj/Debug/net9.0/Condiciones.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/obj/Debug/net9.0/Condiciones.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/obj/Debug/net9.0/Condiciones.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/obj/Debug/net9.0/refint/Condiciones.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/obj/Debug/net9.0/Condiciones.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/obj/Debug/net9.0/Condiciones.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Condiciones/obj/Debug/net9.0/ref/Condiciones.dll

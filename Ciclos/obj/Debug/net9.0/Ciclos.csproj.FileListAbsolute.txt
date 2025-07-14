@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/bin/Debug/net9.0/Ciclos
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/bin/Debug/net9.0/Ciclos.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/bin/Debug/net9.0/Ciclos.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/bin/Debug/net9.0/Ciclos.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/bin/Debug/net9.0/Ciclos.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/obj/Debug/net9.0/Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/obj/Debug/net9.0/Ciclos.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/obj/Debug/net9.0/Ciclos.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/obj/Debug/net9.0/Ciclos.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/obj/Debug/net9.0/Ciclos.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/obj/Debug/net9.0/refint/Ciclos.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/obj/Debug/net9.0/Ciclos.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/obj/Debug/net9.0/Ciclos.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ciclos/obj/Debug/net9.0/ref/Ciclos.dll

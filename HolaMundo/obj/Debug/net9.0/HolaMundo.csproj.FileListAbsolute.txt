@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/bin/Debug/net9.0/HolaMundo
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/bin/Debug/net9.0/HolaMundo.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/bin/Debug/net9.0/HolaMundo.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/bin/Debug/net9.0/HolaMundo.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/bin/Debug/net9.0/HolaMundo.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/obj/Debug/net9.0/HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/obj/Debug/net9.0/HolaMundo.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/obj/Debug/net9.0/HolaMundo.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/obj/Debug/net9.0/HolaMundo.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/obj/Debug/net9.0/HolaMundo.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/obj/Debug/net9.0/refint/HolaMundo.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/obj/Debug/net9.0/HolaMundo.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/obj/Debug/net9.0/HolaMundo.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/HolaMundo/obj/Debug/net9.0/ref/HolaMundo.dll

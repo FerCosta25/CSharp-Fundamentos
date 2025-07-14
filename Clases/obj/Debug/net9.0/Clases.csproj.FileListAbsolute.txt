@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/bin/Debug/net9.0/Clases
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/bin/Debug/net9.0/Clases.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/bin/Debug/net9.0/Clases.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/bin/Debug/net9.0/Clases.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/bin/Debug/net9.0/Clases.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/obj/Debug/net9.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/obj/Debug/net9.0/Clases.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/obj/Debug/net9.0/Clases.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/obj/Debug/net9.0/Clases.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/obj/Debug/net9.0/Clases.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/obj/Debug/net9.0/refint/Clases.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/obj/Debug/net9.0/Clases.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/obj/Debug/net9.0/Clases.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Clases/obj/Debug/net9.0/ref/Clases.dll

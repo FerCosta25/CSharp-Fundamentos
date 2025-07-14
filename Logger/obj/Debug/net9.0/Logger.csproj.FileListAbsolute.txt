@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/bin/Debug/net9.0/Logger
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/bin/Debug/net9.0/Logger.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/bin/Debug/net9.0/Logger.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/bin/Debug/net9.0/Logger.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/bin/Debug/net9.0/Logger.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/obj/Debug/net9.0/Logger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/obj/Debug/net9.0/Logger.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/obj/Debug/net9.0/Logger.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/obj/Debug/net9.0/Logger.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/obj/Debug/net9.0/Logger.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/obj/Debug/net9.0/refint/Logger.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/obj/Debug/net9.0/Logger.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/obj/Debug/net9.0/Logger.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Logger/obj/Debug/net9.0/ref/Logger.dll

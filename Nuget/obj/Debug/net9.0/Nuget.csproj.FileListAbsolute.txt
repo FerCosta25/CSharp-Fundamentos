@@ -1,0 +1,17 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Debug/net9.0/Nuget
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Debug/net9.0/Nuget.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Debug/net9.0/Nuget.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Debug/net9.0/Nuget.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Debug/net9.0/Nuget.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/Nuget.csproj.AssemblyReference.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/Nuget.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/Nuget.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/Nuget.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/Nuget.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/Nuget.csproj.Up2Date
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/Nuget.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/refint/Nuget.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/Nuget.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/Nuget.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Nuget/obj/Debug/net9.0/ref/Nuget.dll

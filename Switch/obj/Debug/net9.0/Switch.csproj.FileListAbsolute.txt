@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/bin/Debug/net9.0/Switch
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/bin/Debug/net9.0/Switch.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/bin/Debug/net9.0/Switch.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/bin/Debug/net9.0/Switch.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/bin/Debug/net9.0/Switch.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/obj/Debug/net9.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/obj/Debug/net9.0/Switch.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/obj/Debug/net9.0/Switch.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/obj/Debug/net9.0/Switch.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/obj/Debug/net9.0/Switch.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/obj/Debug/net9.0/refint/Switch.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/obj/Debug/net9.0/Switch.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/obj/Debug/net9.0/Switch.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Switch/obj/Debug/net9.0/ref/Switch.dll

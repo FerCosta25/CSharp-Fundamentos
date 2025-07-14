@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/bin/Debug/net9.0/ReadAndWrite
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/bin/Debug/net9.0/ReadAndWrite.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/bin/Debug/net9.0/ReadAndWrite.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/bin/Debug/net9.0/ReadAndWrite.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/bin/Debug/net9.0/ReadAndWrite.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/obj/Debug/net9.0/ReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/obj/Debug/net9.0/ReadAndWrite.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/obj/Debug/net9.0/ReadAndWrite.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/obj/Debug/net9.0/ReadAndWrite.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/obj/Debug/net9.0/ReadAndWrite.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/obj/Debug/net9.0/refint/ReadAndWrite.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/obj/Debug/net9.0/ReadAndWrite.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/obj/Debug/net9.0/ReadAndWrite.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/ReadAndWrite/obj/Debug/net9.0/ref/ReadAndWrite.dll

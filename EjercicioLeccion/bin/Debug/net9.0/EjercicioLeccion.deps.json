@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EjercicioLeccion/1.0.0": {
+        "runtime": {
+          "EjercicioLeccion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioLeccion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

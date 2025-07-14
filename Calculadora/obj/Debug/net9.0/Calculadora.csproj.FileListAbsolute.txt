@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/obj/Debug/net9.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/obj/Debug/net9.0/Calculadora.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/bin/Debug/net9.0/Calculadora
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/bin/Debug/net9.0/Calculadora.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/bin/Debug/net9.0/Calculadora.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/bin/Debug/net9.0/Calculadora.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/bin/Debug/net9.0/Calculadora.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/obj/Debug/net9.0/Calculadora.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/obj/Debug/net9.0/refint/Calculadora.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/obj/Debug/net9.0/Calculadora.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/obj/Debug/net9.0/Calculadora.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Calculadora/obj/Debug/net9.0/ref/Calculadora.dll

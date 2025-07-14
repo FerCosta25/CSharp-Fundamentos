@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/obj/Debug/net9.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/obj/Debug/net9.0/Ejercicio1.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/obj/Debug/net9.0/Ejercicio1.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/obj/Debug/net9.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/bin/Debug/net9.0/Ejercicio1
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/bin/Debug/net9.0/Ejercicio1.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/bin/Debug/net9.0/Ejercicio1.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/bin/Debug/net9.0/Ejercicio1.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/bin/Debug/net9.0/Ejercicio1.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/obj/Debug/net9.0/Ejercicio1.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/obj/Debug/net9.0/refint/Ejercicio1.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/obj/Debug/net9.0/Ejercicio1.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/obj/Debug/net9.0/Ejercicio1.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Ejercicio1/obj/Debug/net9.0/ref/Ejercicio1.dll

@@ -1,0 +1,14 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/bin/Debug/net9.0/Depuracion
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/bin/Debug/net9.0/Depuracion.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/bin/Debug/net9.0/Depuracion.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/bin/Debug/net9.0/Depuracion.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/bin/Debug/net9.0/Depuracion.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/obj/Debug/net9.0/Depuracion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/obj/Debug/net9.0/Depuracion.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/obj/Debug/net9.0/Depuracion.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/obj/Debug/net9.0/Depuracion.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/obj/Debug/net9.0/Depuracion.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/obj/Debug/net9.0/refint/Depuracion.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/obj/Debug/net9.0/Depuracion.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/obj/Debug/net9.0/Depuracion.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/Depuracion/obj/Debug/net9.0/ref/Depuracion.dll
