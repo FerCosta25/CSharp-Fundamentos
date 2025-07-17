@@ -1,0 +1,15 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/EjercicioExamen2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/EjercicioExamen2.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/EjercicioExamen2.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/EjercicioExamen2.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/EjercicioExamen2.sourcelink.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/bin/Debug/net9.0/EjercicioExamen2
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/bin/Debug/net9.0/EjercicioExamen2.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/bin/Debug/net9.0/EjercicioExamen2.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/bin/Debug/net9.0/EjercicioExamen2.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/bin/Debug/net9.0/EjercicioExamen2.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/EjercicioExamen2.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/refint/EjercicioExamen2.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/EjercicioExamen2.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/EjercicioExamen2.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioExamen2/obj/Debug/net9.0/ref/EjercicioExamen2.dll

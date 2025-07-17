@@ -1,0 +1,3 @@
+Estos son los estudiantes becados:
+El estudiante Pau ha recibido una beca.
+El estudiante Fer ha recibido una beca.

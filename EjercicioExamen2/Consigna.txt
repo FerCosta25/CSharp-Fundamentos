@@ -1,0 +1,47 @@
+🧾 Ejercicio: Sistema de Registro de Cursos y Evaluación de Estudiantes
+
+🎯 Objetivo:
+
+Crear una aplicación de consola en C# que permita registrar estudiantes, asignarlos a cursos, guardar sus calificaciones y determinar si son aptos para recibir una beca.
+
+⸻
+
+📂 Estructura del proyecto (mínimo):
+	•	IAlumno.cs: interfaz que define lo que debe tener un estudiante.
+	•	Alumno.cs: clase que implementa IAlumno.
+	•	Curso.cs: clase que representa un curso.
+	•	Logger.cs: clase que guarda en un archivo un log de estudiantes becados.
+	•	Program.cs: punto de entrada de la aplicación.
+
+⸻
+
+👨‍🎓 Requisitos funcionales:
+	1.	Registrar estudiantes:
+	•	Leer desde consola el nombre, edad, curso y promedio final del estudiante.
+	•	Usar un objeto Alumno para almacenar esos datos.
+	2.	Evaluar si el estudiante es elegible para beca:
+	•	Un estudiante recibe beca si su promedio es mayor o igual a 9 y su edad es menor de 25.
+	3.	Mostrar la información:
+	•	Mostrar nombre, edad, curso y si fue becado o no.
+	4.	Guardar log:
+	•	Si el estudiante recibe beca, guardar "El estudiante [Nombre] ha recibido una beca." en un archivo log.txt usando la clase Logger.
+
+⸻
+
+📘 Reglas y restricciones:
+	•	Usa get y set en las propiedades.
+	•	Implementa una interfaz IAlumno que defina:
+	•	MostrarInformacion()
+	•	EsElegibleParaBeca()
+	•	Usa al menos un foreach para mostrar todos los estudiantes registrados al final.
+	•	Usa al menos un List<Alumno> para almacenar múltiples estudiantes.
+	•	Usa un namespace común para todas las clases.
+	•	Todo el código debe compilarse y ejecutarse correctamente desde la terminal con dotnet run.
+
+⸻
+
+✍️ Extra (opcional, si quieres hacerlo más completo):
+	•	Permitir registrar más de un estudiante en un ciclo while.
+	•	Validar que el promedio sea entre 0 y 10, y que la edad no sea negativa.
+	•	Crear una clase Curso que solo tenga el nombre del curso, y asociarla al Alumno.
+	

@@ -1,0 +1,27 @@
+🎯 Consigna: Sistema de Gestión de Empleados
+
+Crea un programa en C# que haga lo siguiente:
+
+🧱 Estructura general:
+	1.	Crea un namespace llamado Empresa.
+	2.	Dentro de él, define una interfaz llamada IEmpleado con los siguientes métodos:
+	•	void MostrarInformacion();
+	•	bool EsElegibleParaBono();
+	3.	Crea una clase Empleado que implemente IEmpleado, con:
+	•	Propiedades:
+	•	Nombre (string)
+	•	Edad (int)
+	•	Salario (double)
+	•	Implementa los métodos:
+	•	MostrarInformacion() muestra todos los datos del empleado.
+	•	EsElegibleParaBono() retorna true si el salario es menor a $1000 y la edad es mayor a 30.
+	4.	Crea una clase Logger que tenga un método:
+	•	void Reportar(string mensaje)
+	•	Ese mensaje debe guardarse en un archivo log.txt.
+
+🖥 En Program.cs:
+	•	Pide al usuario el nombre, edad y salario.
+	•	Crea un objeto de tipo Empleado.
+	•	Llama a MostrarInformacion().
+	•	Verifica si es elegible para bono y muestra un mensaje apropiado en consola y también en el archivo log.txt usando la clase Logger.
+
