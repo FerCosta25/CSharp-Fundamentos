@@ -1,0 +1,15 @@
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/EjercicioComplejo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/EjercicioComplejo.AssemblyInfoInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/EjercicioComplejo.AssemblyInfo.cs
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/EjercicioComplejo.csproj.CoreCompileInputs.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/EjercicioComplejo.sourcelink.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/bin/Debug/net9.0/EjercicioComplejo
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/bin/Debug/net9.0/EjercicioComplejo.deps.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/bin/Debug/net9.0/EjercicioComplejo.runtimeconfig.json
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/bin/Debug/net9.0/EjercicioComplejo.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/bin/Debug/net9.0/EjercicioComplejo.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/EjercicioComplejo.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/refint/EjercicioComplejo.dll
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/EjercicioComplejo.pdb
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/EjercicioComplejo.genruntimeconfig.cache
+/Users/fernandocosta/CursoTrabajo/C# fundamentos/EjercicioComplejo/obj/Debug/net9.0/ref/EjercicioComplejo.dll

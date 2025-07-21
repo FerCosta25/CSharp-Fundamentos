@@ -1,0 +1,18 @@
+🎯 Requisitos
+1.	Clase Ciudad
+	•	Nombre (string)
+	•	Pais (string)
+	•	List<double> TemperaturasMensuales (temperatura promedio de cada mes)
+	•	Método AgregarTemperatura(double temperatura)
+	•	Método MostrarInformacion() que muestre el nombre, país, temperaturas y promedio anual.
+	•	Método EsClimaCalido() → retorna true si el promedio anual es mayor a 25 °C.
+2.	Clase ClimaLogger
+	•	Método GuardarClimasCalidos(Ciudad ciudad) que guarda en un archivo climas_calidos.txt las ciudades con clima cálido.
+3.	Programa Principal
+	•	Pregunta cuántas ciudades se van a registrar.
+	•	Por cada ciudad, solicita:
+	•	Nombre
+	•	País
+	•	Las 12 temperaturas mensuales
+	•	Muestra los datos completos de todas las ciudades.
+	•	Guarda en archivo solo las ciudades con clima cálido.
